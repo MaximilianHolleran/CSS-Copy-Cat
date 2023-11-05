@@ -84,6 +84,10 @@ h2{
 .apperal{
     text-align: center;
 }
+.video{
+    display: flex;
+    justify-content: center;
+}
 .branding-section {
     display: flex;
     padding: 2rem;
